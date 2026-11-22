@@ -1,0 +1,3 @@
+# Este proyecto NO usa bibliotecas externas: solo la biblioteca estándar de
+# Python 3.8+ (sqlite3, unittest, argparse, json, math). No hay nada que instalar.
+# Si en el futuro se agrega una biblioteca, escríbala aquí con su versión.
