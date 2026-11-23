@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Parámetros y tablas de referencia de la aplicación.
+#Parámetros y tablas de referencia de la aplicación.
 
-IMPORTANTE: las tablas de este archivo están transcritas de la Tabla 310.16
-del NEC / NFPA 70 (base técnica de la NTC 2050, adoptada en Colombia a través
-del RETIE). Antes de usar el programa para algo más que fines académicos, el
-responsable del proyecto debe VERIFICARLAS contra la edición de la NTC 2050 y
-del RETIE vigentes. Todas las tablas viven aquí para que sean fáciles de
-auditar y corregir sin tocar la lógica de cálculo.
-"""
 import os
 
 VERSION = "1.0"
